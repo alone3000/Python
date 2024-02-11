@@ -80,43 +80,5 @@
 
 # Topics 
 - Beginner Level:
-    1. Installing Python
-    2. Basic syntax and data types (integers, floats, strings, booleans)
-    3. Variables , keywords and Basic input/output
-    4. Operators
-    5. Conditional statements (if, elif, else) 
-    6. Loops (for , while )
-    7. Lists, tuples, set, and dictionaries
-    8. Functions (Types of functions)
-    9. Recursion
-    10. Modules and importing
-    11. Exception handling (try-except)
-    12. File handling (reading and writing files)
+    1. Installing Python and Hello world program
    
-
-- Intermediate Level:
-    1. Basic understanding of Object-Oriented 
-    2. Programming  (OOP) concepts (classes, objects)
-    3. More advanced OOP concepts (inheritance,   polymorphism, encapsulation)
-    4. Advanced topics in OOP (metaprogramming, descriptors)
-    1. Advanced data types (sets, frozensets)
-    2. List comprehensions
-    3. Generators and iterators
-    4. Decorators
-    5. Context managers (with statement)
-    6. String manipulation and formatting
-    7. Regular expressions (re module)
-    8. Functional programming concepts (map, filter,  lambda functions)
-    9. Debugging techniques and tools
-        * Unit testing (unittest, pytest)
-    10. Package management (pip, virtual environments)
-    12. DataBases
-        * Working with databases (`MYSQL`)
-   
-- Advanced Level:
-    1. Concurrency and parallelism (threading,     multiprocessing, asyncio)
-    2. Asynchronous programming (async/await)
-    3. Performance optimization techniques (profiling, Cython, Numba)
-    4. Data analysis and manipulation libraries (NumPy, pandas)
-    5. Introduction to data visualization (matplotlib, seaborn)
-
